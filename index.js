@@ -7,13 +7,13 @@ console.log(happyHolidays());
 function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`;
 } 
-console.log(HappyhoidaysTo("Hassan"));
+console.log(happyholidaysTo("Hassan"));
 
 
-function HappyHolidayTo(holiday,name) {
+function happyHolidayTo(holiday,name) {
   return `Happy ${holiday}, ${name}!`;
 }
-console.log(HappyHolidayTo("4th of July","Hassan"));
+console.log(happyHolidayTo("4th of July","Hassan"));
 
 function holidayCountdown(holiday, days) {
   return `It's ${days} days until ${holiday}!`;
