@@ -12,7 +12,7 @@ console.log(HappyHolidaysTo("Hassan"));
 function HappyHolidayTo(holiday,name) {
   return `Happy ${holiday}, ${name}!`;
 }
-console.log(HappyHolidaysTo("4th of July","Hassan"));
+console.log(HappyHolidayTo("4th of July","Hassan"));
 
 
 
