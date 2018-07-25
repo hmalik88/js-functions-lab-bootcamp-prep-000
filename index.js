@@ -8,7 +8,7 @@ function HappyHolidaysTo(name) {
   return "Happy holidays, ${name}!";
 }
 HappyHolidaysTo("Hassan");
-
+console.log(HappyHo)
 
 
 
