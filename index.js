@@ -3,9 +3,6 @@ function happyHolidays () {
   return "Happy holidays!"; 
 }
 happyHolidays();
-function happyHolidayTo (holiday,name) {
-  
-}
 
 
 
